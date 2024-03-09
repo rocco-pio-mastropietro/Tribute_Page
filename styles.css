@@ -1,0 +1,61 @@
+html {
+  background-color: LightGray;
+  padding: 50px 25px;
+}
+
+header {
+  text-align: center;
+}
+
+#img-div {
+  background-color: white;
+  padding: 30px 100px;
+  border-radius: 20px;
+  margin-bottom: 100px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+}
+
+h1, p {
+  font-family: "Lucida Handwriting", cursive;
+}
+
+figcaption {
+  text-align: center;
+  margin-top: 20px;
+}
+
+section {
+  font-family: Verdana, sans-serif;
+}
+
+section > h3 {
+  padding-left: 100px;
+}
+
+ul {
+  padding: 25px 100px;
+  line-height: 2;
+}
+
+p {
+  font-style: oblique;
+  padding: 30px 150px;
+  max-width: 30%;
+}
+
+section > h4 {
+  text-align: center;
+  font-family: serif;
+  font-weight: normal;
+  margin-top: 100px;
+}
