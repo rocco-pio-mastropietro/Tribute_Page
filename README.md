@@ -1,4 +1,3 @@
 # Tribute Page
 
-This i one of the required projects to earn my Responsive Web Design certification by freeCodeCamp.
-For this project, I built a tribute page for a subject of my choosing, fictional or real.
+This is the boilerplate for the Tribute Page project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page
